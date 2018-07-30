@@ -1,0 +1,3 @@
+dubboExt=com.demo.service.DubboExtServieImpl
+springcloudExt=com.demo.service.SpringCloudExtServieImpl
+thriftExt=com.demo.service.ThriftExtServieImpl
